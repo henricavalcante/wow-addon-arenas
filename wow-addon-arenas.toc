@@ -1,0 +1,4 @@
+## Title: Henri's Arenas AddOn
+## Interface: 50001
+
+wow-addon-arenas.lua
